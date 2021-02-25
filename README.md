@@ -1,7 +1,6 @@
 ### Hola, I am Sherzod Norqobilov 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on myslef 😄
 - 🌱 I’m currently learning python
