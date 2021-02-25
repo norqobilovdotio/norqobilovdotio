@@ -1,4 +1,4 @@
-### Hola, I am Sherzod Norqobilov 👋
+### Hola, I am Sherzod Norqobilov a Pythoneer :)  👋
 
 
 
