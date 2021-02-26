@@ -1,4 +1,4 @@
-### Hola, I am Sherzod Norqobilov, a Pythoneer :)  👋
+### Hola, I am Sherzod Norqobilov, a Pythoneer :) from 	:uzbekistan:  👋
 
 [GitHub](http://github.com/norqobilovdotio)
 
