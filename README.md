@@ -1,16 +1,13 @@
 ### Hola, I am Sherzod Norqobilov, a Pythoneer :) from  👋
 
-[GitHub](http://github.com/norqobilovdotio)
 
 
-
-
-([![Twitter Follow](https://img.shields.io/twitter/follow/norqobilovdotio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnorqobilovdotio&screen_name=norqobilovdotio)
+[Twitter Follow](https://img.shields.io/twitter/follow/norqobilovdotio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnorqobilovdotio&screen_name=norqobilovdotio)
 
 ## I'm a Developer
 
 
-- 🌱 I’m currently learning everything 🤣`
+- 🌱 I’m currently learning everything 🤣 (Python)`
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a quick learner.
 - 	:violin: I like playing the violin
@@ -22,9 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/norqobilovdotio/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="norqobilovdotio | Twitter" width="22px" src="https://twitter.com/norqobilovdotio/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="norqobilovdotio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="norqobilovdotio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
