@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="norqobilovdotio's GitHub Stats" src="https://github-readme-stats.norqobilovdotio.vercel.app/api?username=norqobilovdotio&show_icons=true&hide_border=true" />
+  <img align="left" alt="norqobilovdotio's GitHub Stats" src="https://github-readme-stats-norqobilovdotio.vercel.app/api?username=norqobilovdotio&show_icons=true&hide_border=true" />
 
 </details>
 
