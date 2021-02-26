@@ -19,6 +19,7 @@
 [<img align="left" alt="norqobilovdotio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="norqobilovdotio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="norqobilovdotio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="norqobilovdotio | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -52,5 +53,5 @@
 [twitter]: https://twitter.com/norqobilovdotio
 [instagram]: https://instagram.com/norqobilovdotio
 [linkedin]: https://linkedin.com/in/norqobilovdotio
-[Telegram]: https://telegram.org/norqobilovdotio
+
 
