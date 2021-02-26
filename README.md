@@ -1,6 +1,6 @@
 ### Hola, I am Sherzod Norqobilov, a Pythoneer :)  👋
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[GitHub](http://github.com/norqobilovdotio)
 
 
 
