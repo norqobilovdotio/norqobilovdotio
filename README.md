@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning everything 🤣`
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a quick learner.
+- 	:violin: I like playing the violin
+- 	
 
 ### Spotify Playing 🎧
 
