@@ -52,3 +52,5 @@
 [twitter]: https://twitter.com/norqobilovdotio
 [instagram]: https://instagram.com/norqobilovdotio
 [linkedin]: https://linkedin.com/in/norqobilovdotio
+[Telegram]: https://telegram.org/norqobilovdotio
+
